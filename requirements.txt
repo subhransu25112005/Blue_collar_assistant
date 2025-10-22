@@ -1,0 +1,7 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+gTTS==2.5.4
+deep-translator==1.9.1
+google-generativeai==0.3.0
+python-dotenv==1.1.1
+Werkzeug==2.2.3
